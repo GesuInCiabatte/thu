@@ -1,4 +1,4 @@
-# Luchetto super gym
+# Luchetto
 
 # job experiences
 - Head chef 
