@@ -4,10 +4,13 @@
 - Head chef 
 - Forestry
 # education
-- Stendhal
-- Tor vergata
-- Tuscia
-- Pirgus
+- Stendhal superiori
+- Tor vergata magistrale
+- Tuscia triennale
+- Pirgus medie
 # computer skills
-- little to nothing
+- google antigravity
+- github 
+- python
+
 
