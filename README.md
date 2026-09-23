@@ -1,16 +1,16 @@
 # Luchetto
 
-# job experiences
-- Head chef 
+## Job Experiences
+- Head chef
 - Forestry
-# education
+
+## Education
 - Stendhal superiori
-- Tor vergata magistrale
+- Tor Vergata magistrale
 - Tuscia triennale
 - Pirgus medie
-# computer skills
-- google antigravity
-- github 
-- python
 
-
+## Computer Skills
+- Google Antigravity
+- GitHub
+- Python
